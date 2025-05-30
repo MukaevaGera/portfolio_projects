@@ -10,3 +10,11 @@
 - проект на тему: Анализ заработной платы за 2022-2023
 
 Ссылка на дашборд: https://datalens.yandex/gyliz8x0534k2
+
+- Анализ грузоперевозок (тестовое задание):
+
+Ссылка на проект: https://drive.google.com/file/d/1uSEUDwg0gCPRdOJNWNIlYZoyDVhK84rI/view?usp=sharing
+
+- ВШЭ решение задач:
+
+Ссылка на презентацию: https://docs.google.com/presentation/d/13IQw-l58xFrex_OA1UHxMb-eGh14YgeqnyILj2PTq44/edit?usp=sharing
