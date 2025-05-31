@@ -2,7 +2,8 @@
 
 Начинающий аналитик данных с базовыми навыками работы с SQL, Python, DAX, Power BI, Tableau. 
 
-- итоговый проект на тему: "Анализ факторов риска, предсказывающих развитие диабета"
+
+- итоговый проект на тему: Анализ факторов риска, предсказывающих развитие диабета
 
 Ссылка на дашборд: https://datalens.yandex/p6n2osqz4uv6b 
 
@@ -11,12 +12,13 @@
 
 Ссылка на дашборд: https://datalens.yandex/gyliz8x0534k2
 
-- Анализ грузоперевозок (тестовое задание):
 
+- Анализ грузоперевозок (тестовое задание):
 
 Ссылка на проект: https://lookerstudio.google.com/reporting/81c94cb0-a2e6-490f-a1a2-14cdd91f2ff2
 
 Так как Looker Studio может быть недоступен - выгрузка в pdf: https://drive.google.com/file/d/1uSEUDwg0gCPRdOJNWNIlYZoyDVhK84rI/view?usp=sharing
+
 
 - ВШЭ решение задач:
 
