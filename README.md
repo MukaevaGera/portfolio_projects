@@ -13,7 +13,9 @@
 
 - Анализ грузоперевозок (тестовое задание):
 
-Ссылка на проект: https://drive.google.com/file/d/1uSEUDwg0gCPRdOJNWNIlYZoyDVhK84rI/view?usp=sharing
+
+Ссылка на проект: https://lookerstudio.google.com/reporting/81c94cb0-a2e6-490f-a1a2-14cdd91f2ff2
+Так как Looker Studio может быть недоступен - выгрузка в pdf: https://drive.google.com/file/d/1uSEUDwg0gCPRdOJNWNIlYZoyDVhK84rI/view?usp=sharing
 
 - ВШЭ решение задач:
 
