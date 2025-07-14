@@ -2,8 +2,10 @@
 
 Начинающий аналитик данных с базовыми навыками работы с SQL, Python, DAX, Power BI, Tableau. 
 
+- дипломный проект на тему: Исследование данных супермаркета (superstore_analysis, superstore_sql)
+Ссылка на дашборд: https://public.tableau.com/views/Final_Mukaeva/sheet0?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-- итоговый проект на тему: Анализ факторов риска, предсказывающих развитие диабета
+- итоговый проект на тему: Анализ факторов риска, предсказывающих развитие диабета (diabetes_analysis)
 
 Ссылка на дашборд: https://datalens.yandex/p6n2osqz4uv6b 
 
