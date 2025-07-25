@@ -10,7 +10,6 @@
 
 Ссылка на дашборд: https://datalens.yandex/p6n2osqz4uv6b 
 
-
 - проект на тему: Анализ заработной платы за 2022-2023
 
 Ссылка на дашборд: https://datalens.yandex/gyliz8x0534k2
